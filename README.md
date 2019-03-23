@@ -8,4 +8,5 @@ The BlueFly-Shield is a plug-on module with WiFi/WLAN for Arduino based on a Mic
 * [Microchip ATECC508A](http://www.microchip.com/wwwproducts/en/ATECC508A) Crypto Authentication (I2C address 0x60)
 * Integrated WiFi and IPv4 stack
 * 3.3V - 5V tolerant IOs
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/bluefly-shield/)**
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
